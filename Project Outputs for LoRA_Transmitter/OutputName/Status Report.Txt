@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:22:26 AM On 3/22/2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LoRA_Transmitter.PrjPCB]
+   Generated File[Bill of Materials-LoRA_Transmitter.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:23:04 AM On 3/22/2021
